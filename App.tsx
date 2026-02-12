@@ -150,7 +150,7 @@ function App() {
         <div className="absolute top-0 left-0 w-full h-full bg-[url('https://www.transparenttextures.com/patterns/cubes.png')] opacity-10"></div>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center mb-12">
-            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Zamów swój aparat dzisiaj</h2>
+            <h2 className="text-3xl md:text-4xl font-bold text-white mb-4">Zamów swój aparat słuchowy dzisiaj</h2>
             <p className="text-blue-100 text-lg">Wypełnij formularz poniżej. Płatność bezpiecznie przy odbiorze.</p>
           </div>
           
